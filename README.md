@@ -13,6 +13,13 @@ order to encourage legal literacy amongst children.
 - Flutter, Firebase, Flame.
 # Outcome
 - Simplified legal literacy for children through a fun, educational platform.
+# Screenshots
+Onboarding Screen
+![onboard_screen1](https://github.com/user-attachments/assets/dba560ec-7b23-4414-85de-ed879ac53b48)
+![onboard_screen2](https://github.com/user-attachments/assets/0ebd06c7-4e6a-453d-be9c-31f158c843b6)
+![onboard_screen3](https://github.com/user-attachments/assets/3796caad-8573-4759-9a4e-2cc78cdb52f4)
+
+
 
 ## Getting Started
 
