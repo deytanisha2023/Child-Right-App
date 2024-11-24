@@ -2,15 +2,17 @@
 
 # Gamified Platform on Children’s Rights
 - June 2024-Present, University of Calcutta
-# Objective: Built an Android app to educate and aware
-children about their rights in a gamified manner in
+# Objective
+Built an Android app to educate and aware children about their rights in a gamified manner in
 order to encourage legal literacy amongst children.
 # Key Features:
 - Interactive stories based on real-life scenarios to educate them about the rights.
 - Quizzes , True/False and puzzle games to evaluate their understanding.
 - A PDF section to provide detailed information about various children’s rights for extended learning and reference.
-# Technologies Used: Flutter, Firebase, Flame.
-# Outcome: Simplified legal literacy for children through a fun, educational platform.
+# Technologies Used
+- Flutter, Firebase, Flame.
+# Outcome
+- Simplified legal literacy for children through a fun, educational platform.
 
 ## Getting Started
 
